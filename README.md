@@ -39,6 +39,9 @@
 ---
 ### 📬 Contact Me
 
+📍 **Location**: Cairo, Egypt  
+📞 **Phone**: +201025292411 
+
 <p align="center">
   <a href="mailto:basmaelmasry263@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -46,9 +49,7 @@
   <a href="https://linkedin.com/in/basma-el-masry/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/engbasma263">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  
   <a href="https://github.com/EngBasmaa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -58,7 +59,7 @@
 ### 🔥 Top Repositories
 
 <p align="center">
-  <a href="https://github.com/EngBasmaa/Movie-Verse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=Movie-Verse&theme=radical"/></a>
+  <a href="https://github.com/EngBasmaa/Movie-Verse-React-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=Movie-Verse&theme=radical"/></a>
   <a href="https://github.com/EngBasmaa/E-Commerce-Electronics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=E-Commerce-Electronics&theme=radical"/></a>
   <a href="https://github.com/EngBasmaa/Book-Store-Angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=Book-Store-Angular&theme=radical"/></a>
   <a href="https://github.com/EngBasmaa/MySketch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=MySketch&theme=radical"/></a>
@@ -79,14 +80,19 @@
 
 ### 📚 Courses & Certifications
 
-- 📘 **JavaScript, ES6, React, Angular, Node** – Mahara Tech  
-- 📘 **Master Angular: Build Reactive Web Apps** – Udemy  
-- 📘 **Angular for Beginners** – Coursera  
-- 📘 **Software Engineering** – ALX SE  
-- 📘 **Web Development Track** – Udacity / FWD  
-- 🏅 **Full-Stack MERN Developer Training** – ITI  
-- 🏅 **Full-Stack MEAN Developer Training** – NTI  
-- 🏅 **Front-End Development and Leadership** – DEPI, MCIT  
+## 📚 Courses & Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript,%20ES6,%20React,%20Angular,%20Node-Mahara%20Tech-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Master%20Angular%20(Udemy)-FF6F00?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular%20for%20Beginners-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-ALX%20SE-111111?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Development-Udacity%20/%20FWD-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20MERN%20Training-ITI-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20MEAN%20Training-NTI-red?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Front--End%20&%20Leadership-DEPI%20%7C%20MCIT-purple?style=for-the-badge&logo=frontendmentor&logoColor=white" />
+</p>
+
 
 ---
 

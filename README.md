@@ -78,20 +78,19 @@
 ---
 
 
-### 📚 Courses & Certifications
-
 ## 📚 Courses & Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript,%20ES6,%20React,%20Angular,%20Node-Mahara%20Tech-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Master%20Angular%20(Udemy)-FF6F00?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular%20for%20Beginners-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-ALX%20SE-111111?style=for-the-badge&logo=thealgorithms&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-Udacity%20/%20FWD-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack%20MERN%20Training-ITI-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack%20MEAN%20Training-NTI-red?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Front--End%20&%20Leadership-DEPI%20%7C%20MCIT-purple?style=for-the-badge&logo=frontendmentor&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript,%20ES6,%20React,%20Angular,%20Node-Mahara%20Tech-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Master%20Angular%20(Udemy)-FF8C00?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular%20for%20Beginners-Coursera-4169E1?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-ALX%20SE-8A2BE2?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Development-Udacity%20/%20FWD-20B2AA?style=for-the-badge&logo=udacity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20MERN%20Training-ITI-228B22?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20MEAN%20Training-NTI-DC143C?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Front--End%20&%20Leadership-DEPI%20%7C%20MCIT-9932CC?style=for-the-badge&logo=frontendmentor&logoColor=white" />
 </p>
+
 
 
 ---

@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Basma Elmasry</h1>
 <h1 align="center">Front-End / Full-Stack Developer</h3>
 
-<p align="center">
+<p>
   A passionate Front-End / Full-Stack Developer from Egypt 🇪🇬<br/>
   Always learning, building, and pushing boundaries 💻✨
 </p>
 
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBasmaa&layout=compact&theme=radical&langs_count=8" />
 </p>
 

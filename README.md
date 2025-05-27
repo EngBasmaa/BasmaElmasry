@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basma Elmasry</h1>
-<h3>Front-End / Full-Stack Developer</h3>
+<h2>Front-End / Full-Stack Developer</h3>
 
 <p>
   A passionate Front-End / Full-Stack Developer from Egypt 🇪🇬<br/>

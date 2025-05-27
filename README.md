@@ -37,6 +37,24 @@
 </p>
 
 ---
+### 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:basmaelmasry263@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/basma-el-masry/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/engbasma263">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/EngBasmaa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
 ### 🔥 Top Repositories
 
 <p align="center">
@@ -57,15 +75,7 @@
 - 👗 **Fashion Bazar Web Application**: Angular, Node.js, Express.js, MongoDB  
 
 ---
-### 📬 Contact Me
 
-<p align="center">
-  <a href="mailto:engbasma263@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/basmaelmasry"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/engbasma263"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
----
 
 ### 📚 Courses & Certifications
 
@@ -88,13 +98,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngBasmaa&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
 ### ✨ Volunteering
 

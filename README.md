@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Basma Elmasry</h1>
-<h3 align="center">Full-Stack Developer | Cairo, Egypt</h3>
+<h3>Full-Stack Developer | Cairo, Egypt</h3>
 
-<p">
+<p>
   A passionate Front-End / Full-Stack Developer from Egypt 🇪🇬<br/>
   Always learning, building, and pushing boundaries 💻✨
 </p>

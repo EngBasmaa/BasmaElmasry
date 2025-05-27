@@ -23,10 +23,10 @@
 
 ### 🚀 Projects
 
-- 🎬 **Movie Verse Web App**: React 18, Tailwind, Chart.js  
+- 🎬 **Movie Verse Web App**: React 18, Tailwind, ShadeCN, Chart.js  
 - 🛒 **E-commerce Electronics Platform**: Angular 19, Bootstrap  
 - 📚 **Book Store Platform**: Angular 19, TypeScript  
-- 🎨 **My Sketch Website**: HTML, CSS, JS, Bootstrap, Node.js, MongoDB  
+- 🎨 **My Sketch Website**: HTML, CSS, JS, Bootstrap, Node.js, Express, View Engine, MongoDB  
 - 👗 **Fashion Bazar Web Application**: Angular, Node.js, Express.js, MongoDB  
 
 ---
@@ -70,8 +70,8 @@
 
 - 📍 **Location**: Cairo, Egypt  
 - 📞 **Phone**: +201025292411  
-- 📧 **Email**: Basmaelmasry263@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/basmaelmasry](https://www.linkedin.com/in/basmaelmasry)  
+- 📧 **Email**: basmaelmasry263@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/basmaelmasry](https://www.linkedin.com/in/basma-el-masry/)  
 - 💻 **GitHub**: [github.com/EngBasmaa](https://github.com/EngBasmaa)
 
 ---

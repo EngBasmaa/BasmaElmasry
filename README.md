@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Basma Elmasry</h1>
-<h1>Front-End / Full-Stack Developer</h3>
+<h1 align="center">Front-End / Full-Stack Developer</h3>
 
-<p>
+<p align="center">
   A passionate Front-End / Full-Stack Developer from Egypt 🇪🇬<br/>
   Always learning, building, and pushing boundaries 💻✨
 </p>

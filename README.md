@@ -21,6 +21,33 @@
 
 ---
 
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,mongodb,tailwind,bootstrap,git" />
+</p>
+
+---
+### 📈 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EngBasmaa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBasmaa&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngBasmaa&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+### 🔥 Top Repositories
+
+<p align="center">
+  <a href="https://github.com/EngBasmaa/Movie-Verse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=Movie-Verse&theme=radical"/></a>
+  <a href="https://github.com/EngBasmaa/E-Commerce-Electronics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=E-Commerce-Electronics&theme=radical"/></a>
+  <a href="https://github.com/EngBasmaa/Book-Store-Angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=Book-Store-Angular&theme=radical"/></a>
+  <a href="https://github.com/EngBasmaa/MySketch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=MySketch&theme=radical"/></a>
+</p>
+
+---
+
 ### 🚀 Projects
 
 - 🎬 **Movie Verse Web App**: React 18, Tailwind, ShadeCN, Chart.js  
@@ -28,6 +55,15 @@
 - 📚 **Book Store Platform**: Angular 19, TypeScript  
 - 🎨 **My Sketch Website**: HTML, CSS, JS, Bootstrap, Node.js, Express, View Engine, MongoDB  
 - 👗 **Fashion Bazar Web Application**: Angular, Node.js, Express.js, MongoDB  
+
+---
+### 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:engbasma263@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/basmaelmasry"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/engbasma263"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
 ---
 

@@ -7,7 +7,7 @@
 </p>
 
 
-<p  align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBasmaa&layout=compact&theme=radical&langs_count=8" />
 </p>
 

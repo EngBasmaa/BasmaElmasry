@@ -81,15 +81,16 @@
 ## 📚 Courses & Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript,%20ES6,%20React,%20Angular,%20Node-Mahara%20Tech-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Master%20Angular%20(Udemy)-FF8C00?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular%20for%20Beginners-Coursera-4169E1?style=for-the-badge&logo=coursera&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-ALX%20SE-8A2BE2?style=for-the-badge&logo=thealgorithms&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-Udacity%20/%20FWD-20B2AA?style=for-the-badge&logo=udacity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack%20MERN%20Training-ITI-228B22?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack%20MEAN%20Training-NTI-DC143C?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Front--End%20&%20Leadership-DEPI%20%7C%20MCIT-9932CC?style=for-the-badge&logo=frontendmentor&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript,%20ES6,%20React,%20Angular,%20Node-Mahara%20Tech-%23f39c12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Master%20Angular%20(Udemy)-%23e67e22?style=for-the-badge&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular%20for%20Beginners-Coursera-%233498db?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-ALX%20SE-%239b59b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Development-Udacity%20/%20FWD-%231abc9c?style=for-the-badge&logo=udacity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20MERN%20Training-ITI-%232ecc71?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20MEAN%20Training-NTI-%23e74c3c?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Front--End%20&%20Leadership-DEPI%20%7C%20MCIT-%23c0392b?style=for-the-badge" />
 </p>
+
 
 
 

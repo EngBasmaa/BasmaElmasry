@@ -13,17 +13,7 @@
 
 ---
 
-### 💫 About Me
 
-- 🎓 **Education**: B.Sc. in Electrical and Computer Engineering, Menoufia University (2018)  
-- 🎓 **Master’s Diploma**: Computer Science Engineering, Menoufia University (2023)  
-- 💼 **Current Training**: Full-Stack Developer Program at ITI  
-- 🌐 **Tech Stack**: React, Next.js, Angular, Node.js, Express, MongoDB  
-- 🛠️ **Skills**: RESTful APIs, Responsive Design, UI/UX Standards  
-- 🏆 **Leadership**: Led a team of 6 interns in a DEPI graduation project  
-- 🤝 **Open to**: Collaborations on impactful digital solutions  
-
----
 
 ### 💻 Tech Stack
 
@@ -48,6 +38,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBasmaa&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+### 💫 About Me
+
+- 🎓 **Education**: B.Sc. in Electrical and Computer Engineering, Menoufia University (2018)  
+- 🎓 **Master’s Diploma**: Computer Science Engineering, Menoufia University (2023)  
+- 💼 **Current Training**: Full-Stack Developer Program at ITI  
+- 🌐 **Tech Stack**: React, Next.js, Angular, Node.js, Express, MongoDB  
+- 🛠️ **Skills**: RESTful APIs, Responsive Design, UI/UX Standards  
+- 🏆 **Leadership**: Led a team of 6 interns in a DEPI graduation project  
+- 🤝 **Open to**: Collaborations on impactful digital solutions  
 
 ---
 ### 📬 Contact Me

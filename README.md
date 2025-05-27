@@ -37,6 +37,15 @@
 </p>
 
 ---
+
+
+### 🌐 Languages & Tools
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBasmaa&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
 ### 📬 Contact Me
 
 📍 **Location**: Cairo, Egypt  
@@ -53,16 +62,6 @@
   <a href="https://github.com/EngBasmaa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-### 🔥 Top Repositories
-
-<p align="center">
-  <a href="https://github.com/EngBasmaa/Movie-Verse-React-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=Movie-Verse&theme=radical"/></a>
-  <a href="https://github.com/EngBasmaa/E-Commerce-Electronics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=E-Commerce-Electronics&theme=radical"/></a>
-  <a href="https://github.com/EngBasmaa/Book-Store-Angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=Book-Store-Angular&theme=radical"/></a>
-  <a href="https://github.com/EngBasmaa/MySketch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EngBasmaa&repo=MySketch&theme=radical"/></a>
 </p>
 
 ---
@@ -96,13 +95,6 @@
 
 ---
 
-### 🌐 Languages & Tools
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBasmaa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 
 ### ✨ Volunteering
